@@ -32,4 +32,4 @@ Smarty
 
 If you want to support me and my projects, you can donate at https://store.mysticpvp.fun using the 'Donate' tab, or even joining my Minecraft server discord (https://discord.mysticpvp.fun)! If you would like to contact me, you can message me on Discord (WhenUHackUNoob#0001).
 
-# It was nice to meet you, and I hope we can meet again!
+### It was nice to meet you, and I hope we can meet again!
