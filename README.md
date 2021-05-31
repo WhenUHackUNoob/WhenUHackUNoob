@@ -18,7 +18,7 @@ Skript - 89%
 
 #### Looking to learn
 
-I am looking to learn the following languages/libarys etc:
+I am looking to learn the following languages/libraries etc:
 
 More of Java
 Kotlin
