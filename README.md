@@ -20,12 +20,12 @@ Skript - 89%
 
 I am looking to learn the following languages/libraries etc:
 
-More of Java
-Kotlin
-Ruby
-Go
-More of PHP
-MySQL
+More of Java,
+Kotlin,
+Ruby,
+Go,
+More of PHP,
+MySQL,
 Smarty
 
 #### Contact me
