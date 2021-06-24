@@ -13,7 +13,7 @@
    <br>
   💻 I am a huge fan of coding!
   <br>
-  📚 I’m currently developing Minecraft Sercers!
+  📚 I’m currently developing Minecraft Servers!
   <br>
 </p>                          
 <p align="center">
