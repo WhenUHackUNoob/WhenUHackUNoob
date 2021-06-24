@@ -3,8 +3,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src=https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;%20I%27m+Josh!&center=true&size=40">
-    <p>Credits to this page goes to Supercrafter100!</p>
   </a>
+  <p>Credits to this page goes to Supercrafter100!</p>
 </h1>                                                                         
 <br>                                                                              
 <p align="center">
