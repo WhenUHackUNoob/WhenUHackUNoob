@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src=https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;%20I%27m+Josh!&center=true&size=40">
+    <img src=https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;%20I%27m+Josh!;%20Page+made+by+Supercrafter100!&center=true&size=40">
   </a>
 </h1>                                                                         
 <br>                                                                              
@@ -10,9 +10,9 @@
   × Software Developer ×
   <br>
    <br>
-  💻 I am a huge fan of coding stuff
+  💻 I am a huge fan of coding!
   <br>
-  📚 I’m currently developing discord bots!
+  📚 I’m currently developing Minecraft Sercers!
   <br>
 </p>                          
 <p align="center">
