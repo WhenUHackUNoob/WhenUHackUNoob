@@ -53,5 +53,5 @@
 
 <h4 align="center">
   <a href="https://github.com/WhenUHackUNoob?tab=repositories" title="Show Repositories">Show Repositories</a>
-  <p>README.md by <a href="https://github.com/Supercrafter100/Supercrafter100>Supercrafter100</a>.</p>
+  <p>README.md by <a href="https://github.com/Supercrafter100/Supercrafter100">Supercrafter100</a>.</p>
 </h4>
